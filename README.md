@@ -4,12 +4,12 @@ Gratefully borrowed from [react-coding-challenges](https://github.com/alexgurr/r
 
 &nbsp;
 # Goals / Outcomes ✨
-- Using state and global state
-- DOM manipulation
+- Using state
+- Leveraging existing dependencies
 
 &nbsp;
 # Pre-requisites ✅
-None
+- Do not add additional dependencies
 
 &nbsp;
 # Requirements 📖
