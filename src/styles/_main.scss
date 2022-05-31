@@ -81,3 +81,8 @@ $input-shadow: none;
 
 // Utilities
 @import '~bootstrap/scss/utilities/api';
+
+.show {
+  display: block !important;
+  background-color: #00000080;
+}
